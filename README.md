@@ -1,8 +1,6 @@
-# Hi 👋🏽 Christian Klein here. On my way to becoming a Software Engineer 🤘🏽
+# 👋🏽 Christian Klein here. On my way to becoming a Software Engineer 🤘🏽
 
-![Here is me face](image0.jpeg)
-
-### Currently working on...
+### Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristianJWKlein&show_icons=true&theme=onedark&line_height=27" alt="AnkitDroidGit github stats" />
 
