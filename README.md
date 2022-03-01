@@ -1,5 +1,17 @@
 # 👋🏽 Christian Klein here. On my way to becoming a Software Engineer 🤘🏽
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Some of my Articles 🌱
+
+- [Set-Up Simple Firestore Firebase (Database) with Express API on NodeJS](https://medium.com/@cklein010715/so-youve-finally-caught-the-geek-bug-8d4c3d62645d)
+
+</td>
+</tr>
+</table>
+
 ### Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristianJWKlein&show_icons=true&theme=onedark&line_height=27" alt="AnkitDroidGit github stats" />
@@ -14,15 +26,3 @@
 
 [linkedin]: https://www.linkedin.com/in/christian-klein-a72b72151/
 [medium]: https://medium.com/@cklein010715
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Some of my Articles 🌱
-
-- [Set-Up Simple Firestore Firebase (Database) with Express API on NodeJS](https://medium.com/@cklein010715/so-youve-finally-caught-the-geek-bug-8d4c3d62645d)
-
-</td>
-</tr>
-</table>
