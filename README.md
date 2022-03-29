@@ -1,4 +1,4 @@
-# 👋🏽 Christian Klein here. On my way to becoming a Software Engineer 🤘🏽
+# 👋🏽 Christian Klein here. Software Engineer. Leveling Up One Day at a Time 🤘🏽
 
 <table>
 <tr>
@@ -6,7 +6,7 @@
 
 ### Some of my Articles 🌱
 
-- [Set-Up Simple Firestore Firebase (Database) with Express API on NodeJS](https://medium.com/@cklein010715/so-youve-finally-caught-the-geek-bug-8d4c3d62645d)
+- [Set-Up Simple Firestore Database with Express API on NodeJS](https://medium.com/@cklein010715/so-youve-finally-caught-the-geek-bug-8d4c3d62645d)
 
 </td>
 </tr>
